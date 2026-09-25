@@ -1,5 +1,5 @@
 /* ほおぶくろ — オフラインでも開けるようにする係 */
-const VERSION = 'hb-v1';
+const VERSION = 'hb-v2';
 const RUNTIME = 'hb-runtime';
 const SHELL = ['./', './index.html', './style.css', './app.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/badge-96.png'];
 
